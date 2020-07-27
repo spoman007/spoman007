@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="width:1000px" src="https://raw.githubusercontent.com/spoman007/spoman007/master/media/record.gif"
+    <img style="width:1000px" src="https://raw.githubusercontent.com/spoman007/spoman007/master/media/re.gif"
         alt="Sandeep Poman">
 </p>
 <p align="center">
